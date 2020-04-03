@@ -11,7 +11,7 @@
 |—— |—— DataModel.py
 |—— config.py       # 用于管理模型超参数
 |—— utils.py        # 包含一些工具函数文件，如时间函数，制图函数，平均损失计算函数等
-|—— mian.py         # 主函数
+|—— main.py         # 主函数
 |—— evaluate.py     # 对应任务的模型表现评测文件
 |—— analysis.py     # 对应任务的模型Bad-Case报告文件
 |—— picture         # 用来存储用于制图的模型训练过程【损失】、【表现】随epoch变化的文件，以及draw.py函数绘制的图片
